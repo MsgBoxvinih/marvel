@@ -1,0 +1,15 @@
+.bottomlight {
+    background: url('../../../public/imagem/fundo2.png');
+    background-color: #e6dcdb;
+    text-align: center;
+    justify-content: center;
+    position: relative; 
+}
+
+.bottomlight img {
+    background-size: cover;
+    max-width: 100vw;
+    max-height: 100vh;
+    width: 100%;
+    height: 100%;
+}

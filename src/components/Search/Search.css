@@ -1,0 +1,28 @@
+.search-input{
+    position: absolute;
+    top: 44.81%;
+    left: 17.24%;
+    display: flex;
+}
+
+.search-input input{
+    /* 16px = 1rem */
+    background-color: #fff;
+    width: 36.625rem; 
+    height: 3.125rem;
+    border: none;
+    font-size: 0.875rem;
+    line-height: 1.059rem;
+    border-radius: 0.625rem;
+    position: relative;
+    outline-color: rgb(7, 169, 7);
+}
+
+.icon {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    right: 45px;
+    top: 6px;
+    color: rgb(7, 169, 7);
+}

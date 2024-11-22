@@ -1,0 +1,13 @@
+.logo {
+    width: 29.73%;
+    height: 34.07%;
+    left: -307.34%;
+    top: -163.33%;
+}
+
+.logo img{
+    position: absolute;
+    top: 40px;
+    left: 330px;
+    display: flex;
+}

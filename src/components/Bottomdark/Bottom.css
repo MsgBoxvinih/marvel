@@ -1,0 +1,27 @@
+.bottom {
+    background: url('../../../public/imagem/fundo.png');
+    background-color: black;
+    text-align: center;
+    justify-content: center;
+    position: relative; 
+}
+
+.bottom img {
+    background-size: cover;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.bottom2 {
+    background: url('../../../public/imagem/fundo2.png');
+    background-color: rgb(238, 174, 174);
+    text-align: center;
+    justify-content: center;
+    position: relative; 
+}
+
+.bottom2 img {
+    background-size: cover;
+    max-width: 100%;
+    max-height: 100%;
+}
